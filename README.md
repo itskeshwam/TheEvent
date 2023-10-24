@@ -6,8 +6,8 @@ Upcoming events based on dates and very little information
 
 # Event Schedule 
 for the next 3 months the upcoming event in a timeline format 
-## Click on Event 1 
-that's gonna be the page that shows information of the Event
+## Click on Event 1 in Events lineup
+that's gonna be the page that shows information about the Event 
 
 # Event Venue or can be changed to our "Headquarters" lol 
 can be removed if you don't like it 
